@@ -1,9 +1,0 @@
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/kursach.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/edit_cache.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/list_install_components.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/install.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/install/local.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/install/strip.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/kursach_autogen_timestamp_deps.dir
-C:/Users/papachill/Documents/kursach/build/5_15_17_mingw64_static-Debug/CMakeFiles/kursach_autogen.dir
